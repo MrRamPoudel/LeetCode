@@ -1,6 +1,6 @@
 /*
     Use map to keep track of sorted word (sorted string are anagram if they are equal)
-
+    // The easier solution, is to keep vector of strings associated with sorted word
 */
 
 class Solution {
